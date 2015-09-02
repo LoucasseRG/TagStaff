@@ -1,1 +1,1 @@
-$('.quickReply message').after('test')
+$('#quickReply message').after('test')
